@@ -24,22 +24,23 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-6.png)
-![alt text](image-7.png)
-![alt text](image-8.png)
-![alt text](image-9.png)
-![alt text](image-10.png)
-![alt text](image-11.png)
-![alt text](image-12.png)
-![alt text](image-13.png)
-![alt text](image-14.png)
-![alt text](image-15.png)
-![alt text](image-16.png)
+![1](https://github.com/user-attachments/assets/340be753-e8b9-4e5f-9912-fc10c8386405)
+![2](https://github.com/user-attachments/assets/72d07e52-ea17-459a-9b01-72aa37a59132)
+![3](https://github.com/user-attachments/assets/f1fa6299-7d26-4171-9625-7ef750939c50)
+![4](https://github.com/user-attachments/assets/dd92cf7b-c055-4d9c-9ba3-52296f92a99d)
+![5](https://github.com/user-attachments/assets/5da3b99c-2b19-4008-a1cb-1e21d191a1db)
+![6](https://github.com/user-attachments/assets/f15b0a5b-807a-4b38-a93c-dc37810ae19f)
+![7](https://github.com/user-attachments/assets/551aa80b-fcc0-4d3d-90a3-c97a75ccfbf6)
+![8](https://github.com/user-attachments/assets/245e9fa6-fbed-459b-87b8-0c889a881cf4)
+![9](https://github.com/user-attachments/assets/6f0e66d1-ed3c-4213-955a-22ce141de48f)
+![10](https://github.com/user-attachments/assets/9dbb553a-6886-461a-a5ef-328d8bd80ef2)
+![11](https://github.com/user-attachments/assets/9071dde6-6638-45db-9cc3-af01a74f86ba)
+![12](https://github.com/user-attachments/assets/8466b6a5-b8a2-4199-856d-b2261f7a69ba)
+![13](https://github.com/user-attachments/assets/b24eab0b-ba79-4a41-89d2-feac350cd3fb)
+
+
 # RESULT:
-Thus, Feature selection and Feature scaling has been used on thegiven dataset.
+Thus, Feature selection and Feature scaling has been used on thegiven
+dataset.
+
+       
